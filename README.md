@@ -1,8 +1,5 @@
 ### Hola, I'm Abhinav Maharana 👋
 
-<!--
-**abhinavmaharana/abhinavmaharana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 💻 I’m currently working on a **AR Body Scanner** that will scan the user whole body and give it's measurement for buying proper fitting clothes.
