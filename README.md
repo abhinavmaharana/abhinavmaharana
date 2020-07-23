@@ -1,7 +1,5 @@
 ### Hola, I'm Abhinav Maharana 👋
 
-Here are some ideas to get you started:
-
 - 💻 I’m currently working on a **AR Body Scanner** that will scan the user whole body and give it's measurement for buying proper fitting clothes.
 - 📖 I’m currently learning **ReactJS,TensorflowJS**
 - 👯 I’m looking to collaborate on **OpenSourced** projects on **Machine Learning, Deep Learning and Web Development**
