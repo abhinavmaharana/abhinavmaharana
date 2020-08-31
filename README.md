@@ -38,10 +38,6 @@
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
 
-```
-I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
-```
-
 ### inDesign & Editing 🎨✂
 
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/figma.png" style="height:25px"/>
@@ -50,13 +46,7 @@ I keep going dates with them 💗, best part no one hates me for going on date w
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/illustrator.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/aftereffects.png"/>
 
-```
-They find me attractive so do i 😉.
-```
-
 ### Profile Overview 👀
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmaharana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
-And at last some stats to impress my next 😍😉.
-```
 </details>
