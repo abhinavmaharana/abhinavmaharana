@@ -11,9 +11,55 @@
 <p  align="center"><img height="400" src = "https://github.com/demartini/demartini/blob/master/code.gif"></p>
 <p align="center">
 
-## Some Statistics Fun
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmaharana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavmaharana/)](https://www.linkedin.com/in/abhinavmaharana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:abhinavmaharana800@gmail.com)
 
+<h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
+
+---
+
+<details close>
+<summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
+  
+ ### inCoding 👨🏻‍💻
+
+<img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
+<img src="https://img.icons8.com/fluent/28/000000/console.png"/>
+<img src="https://img.icons8.com/color/28/000000/git.png"/>
+<img src="https://img.icons8.com/fluent/28/000000/chrome.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/code.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/postman..png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/mongodb.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/firebase.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/react.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/nodejs.png"/> 
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/javascript.png"/> 
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
+<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/arduino.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
+
+```
+I keep going dates with them 💗, best part no one hates me for going on date with others 😁.
+```
+
+### inDesign & Editing 🎨✂
+
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/figma.png" style="height:25px"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/vegas.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/xd.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/photoshop.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/illustrator.png"/>
+<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/aftereffects.png"/>
+
+```
+They find me attractive so do i 😉.
+```
+
+### Profile Overview 👀
+![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmaharana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
+
+And at last some stats to impress my next 😍😉.
+```
+</details>
