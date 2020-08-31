@@ -8,6 +8,9 @@
 - 😄 Pronouns: **Coder**, **Thinker** and **Kind Hearted**
 - ⚡ Fun fact: I spend almost 10 hours listening songs everyday.
 
+<p  align="center"><img height="400" src = "https://github.com/demartini/demartini/blob/master/code.gif"></p>
+<p align="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavmaharana/)](https://www.linkedin.com/in/abhinavmaharana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:abhinavmaharana800@gmail.com)
 
