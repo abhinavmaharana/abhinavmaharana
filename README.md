@@ -35,8 +35,6 @@
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/nodejs.png"/> 
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/javascript.png"/> 
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/python.png"/>
-<img src="https://img.icons8.com/color/28/000000/java-coffee-cup-logo.png"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/arduino.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c++.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/c.png"/>
 
@@ -47,7 +45,6 @@ I keep going dates with them 💗, best part no one hates me for going on date w
 ### inDesign & Editing 🎨✂
 
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/figma.png" style="height:25px"/>
-<img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/vegas.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/xd.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/photoshop.png"/>
 <img src="https://github.com/AsishRaju/AsishRaju/raw/master/gifs/illustrator.png"/>
