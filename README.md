@@ -14,6 +14,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinavmaharana/)](https://www.linkedin.com/in/abhinavmaharana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:abhinavmaharana800@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaharana)](https://github.com/abhinavmaharana/github-readme-stats)
+
 <h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
 
 ---
