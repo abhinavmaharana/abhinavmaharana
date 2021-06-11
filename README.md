@@ -51,6 +51,7 @@
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmaharana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
   
 ### Stats
-![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmaharana&show_icons=true&theme=merko)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavmaharana&theme=merko)](https://git.io/streak-stats)
+
 
 </details>
