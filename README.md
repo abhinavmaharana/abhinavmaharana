@@ -51,9 +51,9 @@
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=abhinavmaharana&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
   
 ### Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavmaharana&theme=great-gatsby)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhinavmaharana&theme=dark&hide_border=true&background=000000)](https://git.io/streak-stats)
 
-### Graph
+### Contribution Graph
 [![Abhinav's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhinavmaharana&theme=react-dark)](https://github.com/abhinavmaharana/github-readme-activity-graph)
   
 </details>
