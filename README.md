@@ -1,4 +1,12 @@
-### Hola, I'm Abhinav Maharana 👋
+![](https://komarev.com/ghpvc/?username=abhinavmaharana&color=blueviolet)
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Abhinav+Maharana...;Nice+to+meet+you!&center=true&size=27">
+  </a>
+</h1>
 
 - 💻 I’m currently working on a **AR Body Scanner** that will scan the user whole body and give it's measurement for buying proper fitting clothes.
 - 📖 I’m currently learning **ReactJS,TensorflowJS**
